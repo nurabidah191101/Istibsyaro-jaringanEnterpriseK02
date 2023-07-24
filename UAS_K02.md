@@ -8,3 +8,13 @@ Perguruan Tinggi Fakultas Teknik Universitas Nurul Jadid adalah salah satu insti
 Salah satu masalah utama yang dihadapi oleh perguruan tinggi ini adalah keterbatasan infrastruktur jaringan yang ada. Dengan adanya dua gedung di dalam lingkungan kampus, diperlukan penghubung jaringan yang efisien dan andal antara kedua gedung tersebut. Mungkin saat ini, perguruan tinggi ini masih menggunakan infrastruktur jaringan kabel konvensional, seperti kabel tembaga, yang rentan terhadap gangguan dan memiliki batasan kecepatan transfer data.
 
 Selain memperbarui infrastruktur kabel, pihak perguruan tinggi juga perlu memastikan investasi dalam perangkat jaringan dan sistem manajemen yang tepat. Penggunaan perangkat jaringan yang canggih dan modern akan memastikan keefisienan dan kinerja yang optimal dari jaringan. Sistem manajemen jaringan yang baik juga penting untuk memantau dan mengatasi masalah potensial dengan cepat, sehingga downtime dapat diminimalkan dan pengguna dapat terus mengakses layanan internet dengan lancar.
+
+Beberapa masalah yang di temukan adalah sebagai berikut:
+1.		Perguruan tinggi Fakultas Tehnik Universitas Nurul Jadid tidak memiliki sebuah topologi jaringan yang pasti di gedung utama;
+2.		Tidak adanya kejelasan yang pasti mengenai topologi jaringan yang terdapat di 2 gedung perguruan tinggi Fakultas Tehnik Universitas Nurul Jadid.
+
+Gambar di Atas yang bagian Gedung C yaitu penghubung antar jaringan menggunakan Switch.
+A. Switch merupakan perangkat jaringan yang bekerja pada lapisan Data-link (Layer 2) dalam model referensi OSI (Open Systems Interconnection). Fungsinya mirip dengan bridge, yakni menghubungkan beberapa segmen jaringan lokal (LAN) ke dalam satu jaringan yang lebih besar. Dengan menggunakan switch, data dapat dikirimkan secara efisien hanya ke tujuan yang tepat, menghindari pengiriman data ke semua perangkat di jaringan seperti yang terjadi pada hub.
+
+Di Gedung Fakultas Teknik Universitas Nurul Jadid, terdapat enam switch yang digunakan untuk mengatur dan menghubungkan beberapa segmen LAN. Setiap switch berperan dalam mengelola lalu lintas data di segmen jaringan lokal tertentu.
+Selain itu, ada juga hub yang digunakan untuk menghubungkan switch-switch tersebut. Hub adalah perangkat jaringan yang bekerja pada lapisan Fisik (Layer 1) dalam model referensi OSI.
