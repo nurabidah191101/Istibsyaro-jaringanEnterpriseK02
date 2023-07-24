@@ -1,6 +1,10 @@
-﻿**Part 1**
 
 `	`Dalam era digital yang semakin maju seperti sekarang ini, instansi ataupun perguruan tinggi memiliki kebutuhan yang sangat penting dalam membangun infrastruktur jaringan komputer yang efisien dan handal. Seiring dengan perkembangan teknologi dan kebutuhan akses data yang semakin tinggi, rancangan topologi jaringan menjadi aspek kritis dalam mendukung berbagai aktivitas yang dilakukan oleh pengguna di dalam institusi tersebut.
 
 `	`Topologi jaringan merupakan representasi fisik atau logis dari bagaimana perangkat komputer, server, dan perangkat jaringan lainnya terhubung dan berkomunikasi satu sama lain. Dengan memiliki topologi jaringan yang tepat, sebuah institusi atau perguruan tinggi dapat menjamin ketersediaan jaringan yang stabil, pengelolaan sumber daya yang efisien, dan kemampuan untuk mengatasi potensi masalah jaringan dengan cepat dan efektif.
 
+Perguruan Tinggi Fakultas Teknik Universitas Nurul Jadid adalah salah satu institusi pendidikan yang berdedikasi untuk memberikan pendidikan berkualitas dalam bidang teknik dan teknologi. Namun, seperti banyak perguruan tinggi lainnya, Fakultas Teknik Universitas Nurul Jadid juga menghadapi berbagai tantangan dalam membangun dan mengelola infrastruktur jaringan yang sesuai dengan perkembangan teknologi dan kebutuhan pengguna.
+
+Salah satu masalah utama yang dihadapi oleh perguruan tinggi ini adalah keterbatasan infrastruktur jaringan yang ada. Dengan adanya dua gedung di dalam lingkungan kampus, diperlukan penghubung jaringan yang efisien dan andal antara kedua gedung tersebut. Mungkin saat ini, perguruan tinggi ini masih menggunakan infrastruktur jaringan kabel konvensional, seperti kabel tembaga, yang rentan terhadap gangguan dan memiliki batasan kecepatan transfer data.
+
+Selain memperbarui infrastruktur kabel, pihak perguruan tinggi juga perlu memastikan investasi dalam perangkat jaringan dan sistem manajemen yang tepat. Penggunaan perangkat jaringan yang canggih dan modern akan memastikan keefisienan dan kinerja yang optimal dari jaringan. Sistem manajemen jaringan yang baik juga penting untuk memantau dan mengatasi masalah potensial dengan cepat, sehingga downtime dapat diminimalkan dan pengguna dapat terus mengakses layanan internet dengan lancar.
